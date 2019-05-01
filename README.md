@@ -2,7 +2,7 @@
 
 Most initial upload of a shopping website. 
 
-Further uploads were removed due to sme unavoidavle reasons.
+Further uploads were removed due to some unavoidable reasons.
 
 This can be used to generate various products. 
 
